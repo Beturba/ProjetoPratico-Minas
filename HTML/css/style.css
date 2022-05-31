@@ -1,5 +1,5 @@
 body{
-background-color: white;
+background-color: rgb(247, 242, 244);
 font-family: 'Acme', sans-serif;
 
 }
@@ -80,3 +80,19 @@ h3 {
  text-align: center; 
 }
 
+
+.imagem{
+float: left
+
+}
+
+.curso{
+    
+     color: rgb(102, 9, 126)
+}
+
+.informações{
+
+    text-align: left;
+    float: none;
+}
